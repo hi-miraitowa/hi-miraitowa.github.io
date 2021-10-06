@@ -7,9 +7,9 @@ const ap = new APlayer({
     listMaxHeight: 60,
     audio: [
         {
-            name: 'name1',
-            artist: 'artist1',
-            url: 'url1.mp3',
+            name: '无名之辈',
+            artist: '陈雪然',
+            url: '/music/无名之辈-《亲爱的，热爱的》电视剧主题曲 - 陈雪燃.flac',
             cover: 'cover1.jpg',
         },
         {
