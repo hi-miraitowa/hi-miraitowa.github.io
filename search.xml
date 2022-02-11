@@ -230,6 +230,7 @@ t_2-t_1=\sqrt{1-\frac{u^2}{c^2}}(t_2'-t_1')</script><script type="math/tex; mode
 </ul>
 </li>
 </ul>
+<span id="more"></span>
 <h3 id="减法"><a href="#减法" class="headerlink" title="减法"></a>减法</h3><ul>
 <li>减去一个数，等于加上这个数的相反数</li>
 </ul>
@@ -434,9 +435,9 @@ t_2-t_1=\sqrt{1-\frac{u^2}{c^2}}(t_2'-t_1')</script><script type="math/tex; mode
 ]]></content>
   </entry>
   <entry>
-    <title>八上数学思维导图</title>
+    <title>八上数学知识点</title>
     <url>/2022/02/06/%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/</url>
-    <content><![CDATA[<h1 id="八年级上册"><a href="#八年级上册" class="headerlink" title="八年级上册"></a>八年级上册</h1><h2 id="第一章-三角形的初步知识"><a href="#第一章-三角形的初步知识" class="headerlink" title="第一章 三角形的初步知识"></a>第一章 三角形的初步知识</h2><h3 id="三角形"><a href="#三角形" class="headerlink" title="三角形"></a>三角形</h3><ul>
+    <content><![CDATA[<h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><h2 id="第一章-三角形的初步知识"><a href="#第一章-三角形的初步知识" class="headerlink" title="第一章 三角形的初步知识"></a>第一章 三角形的初步知识</h2><h3 id="三角形"><a href="#三角形" class="headerlink" title="三角形"></a>三角形</h3><ul>
 <li><p>定义</p>
 <ul>
 <li>不在同一条直线上的三条线段首尾相接所组成的图形。</li>
@@ -450,13 +451,21 @@ t_2-t_1=\sqrt{1-\frac{u^2}{c^2}}(t_2'-t_1')</script><script type="math/tex; mode
 </li>
 <li><p>性质</p>
 <ul>
-<li>三角形的内角和是180°</li>
-<li>三角形的任何两边的和大于第三边</li>
-<li>三角形的任何两边的差小于第三边</li>
-<li>三角形的任何两边之和大于第三边大于两边之差</li>
-<li>三角形的一个外角等于和他不相邻的两个内角的和</li>
+<li><p>三角形的内角和是180°</p>
+</li>
+<li><p>三角形的任何两边的和大于第三边</p>
+</li>
+<li><p>三角形的任何两边的差小于第三边</p>
+</li>
+<li><p>三角形的任何两边之和大于第三边大于两边之差</p>
+</li>
+<li><p>三角形的一个外角等于和他不相邻的两个内角的和</p>
+</li>
 </ul>
 </li>
+</ul>
+<span id="more"></span>
+<ul>
 <li><p>几条重要的线</p>
 <ul>
 <li><p>三角形的角平分线</p>
@@ -851,7 +860,7 @@ t_2-t_1=\sqrt{1-\frac{u^2}{c^2}}(t_2'-t_1')</script><script type="math/tex; mode
   <entry>
     <title>七下数学思维导图</title>
     <url>/2022/02/06/%E4%B8%83%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/</url>
-    <content><![CDATA[<h1 id="七年级下册"><a href="#七年级下册" class="headerlink" title="七年级下册"></a>七年级下册</h1><h2 id="第一章-平行线"><a href="#第一章-平行线" class="headerlink" title="第一章 平行线"></a>第一章 平行线</h2><h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><ul>
+    <content><![CDATA[<h2 id="第一章-平行线"><a href="#第一章-平行线" class="headerlink" title="第一章 平行线"></a>第一章 平行线</h2><h3 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h3><ul>
 <li>在同一平面内，不相交的两条直线叫做平行线。</li>
 </ul>
 <h3 id="基本事实"><a href="#基本事实" class="headerlink" title="基本事实"></a>基本事实</h3><ul>
@@ -868,6 +877,7 @@ t_2-t_1=\sqrt{1-\frac{u^2}{c^2}}(t_2'-t_1')</script><script type="math/tex; mode
 <li>两条直线被第三条直线所截，如果内错角相等，那么这两条直线平行。（内错角相等，两直线平行）</li>
 <li>两条直线被第三条直线所截，如果同旁内角互补，那么这两条直线平行。（同旁内角互补，两直线平行）</li>
 </ul>
+<span id="more"></span>
 <h3 id="性质"><a href="#性质" class="headerlink" title="性质"></a>性质</h3><ul>
 <li>两条直线被第三条直线所截，同位角相等。（两直线平行，同位角相等）</li>
 <li>两条直线被第三条直线所截，内错角相等。（两直线平行，内错角相等）</li>
@@ -1051,6 +1061,7 @@ a^2+b^2\pm 2ab=(a\pm b)^2</script><h2 id="第五章-分式"><a href="#第五章-
     <url>/2022/02/09/About%20Wonder/</url>
     <content><![CDATA[<h3 id="Foreword"><a href="#Foreword" class="headerlink" title="Foreword"></a>Foreword</h3><p>During this winter holiday, I read the book <em>Wonder</em> on the recommendation of my English teacher. And, of course, it’s always impossible that you won’t have to do anything after your teacher assigns you such a HUGE&amp;HARD task. Thus, here is my work.</p>
 <h3 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h3><p>At the beginning of the book, we’re introduced to a boy who does the ordinary thing but owns an not that ordinary face. That is because several operations had been taken on him at his birth. As a result, the poor boy, August Pullman (Auggie) has a facial deformity.</p>
+<span id="more"></span>
 <p>Here’s how the story happens: In order to get on with other children, Auggie’s parents made the decision to send him to a public school. Before the term starts, he was taken to the principal of the school and introduced to some kids in his grade. There, he met his first friend, Jack Will.</p>
 <p>At school, though Auggie truly made a few friends, he was still teased by some naughty boys because of his special appearance. During this period of time, Auggie always believes that Jack is his true friend. Until-</p>
 <p>On Halloween, wearing a costume, Auggie overheard that Jack said to others with laughter that if he looked like Auggie, he would kill himself. Auggie is heatbroken. However, Jack is unaware of this.</p>
@@ -1070,9 +1081,9 @@ a^2+b^2\pm 2ab=(a\pm b)^2</script><h2 id="第五章-分式"><a href="#第五章-
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>八年级下册知识点</title>
     <url>/2022/02/06/%E5%85%AB%E5%B9%B4%E7%BA%A7%E4%B8%8B%E5%86%8C/</url>
-    <content><![CDATA[<h1 id="八年级下册"><a href="#八年级下册" class="headerlink" title="八年级下册"></a>八年级下册</h1><h2 id="第一章-二次根式"><a href="#第一章-二次根式" class="headerlink" title="第一章 二次根式"></a>第一章 二次根式</h2><h3 id="二次根式"><a href="#二次根式" class="headerlink" title="二次根式"></a>二次根式</h3><ul>
+    <content><![CDATA[<h2 id="第一章-二次根式"><a href="#第一章-二次根式" class="headerlink" title="第一章 二次根式"></a>第一章 二次根式</h2><h3 id="二次根式"><a href="#二次根式" class="headerlink" title="二次根式"></a>二次根式</h3><ul>
 <li>表示算术平方根的代数式</li>
 <li>二次根式根号内字母的取值范围必须满足被开方数大于或等于零</li>
 <li><p>性质</p>
@@ -1088,7 +1099,8 @@ a^2+b^2\pm 2ab=(a\pm b)^2</script><h2 id="第五章-分式"><a href="#第五章-
 </code></pre><script type="math/tex; mode=display">
 \sqrt{ab}=\sqrt{a}×\sqrt{b}(a≥0,b≥0)</script><pre><code>- 
 </code></pre><script type="math/tex; mode=display">
-\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}(a≥0,b>0)</script><ul>
+\sqrt{\frac{a}{b}}=\frac{\sqrt{a}}{\sqrt{b}}(a≥0,b>0)</script><span id="more"></span>
+<ul>
 <li>最简二次根式</li>
 <li><p>运算</p>
 <ul>
@@ -1303,9 +1315,9 @@ S=\sqrt {\frac 1 n (x_1-\overline x)^2+(x_2-\overline x)^2+···+(x_n-\overline
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>九年级上册知识点</title>
     <url>/2022/02/09/%E4%B9%9D%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C/</url>
-    <content><![CDATA[<h1 id="九年级上册"><a href="#九年级上册" class="headerlink" title="九年级上册"></a>九年级上册</h1><h2 id="第一章-二次函数"><a href="#第一章-二次函数" class="headerlink" title="第一章 二次函数"></a>第一章 二次函数</h2><h3 id="二次函数"><a href="#二次函数" class="headerlink" title="二次函数"></a>二次函数</h3><ul>
+    <content><![CDATA[<h2 id="第一章-二次函数"><a href="#第一章-二次函数" class="headerlink" title="第一章 二次函数"></a>第一章 二次函数</h2><h3 id="二次函数"><a href="#二次函数" class="headerlink" title="二次函数"></a>二次函数</h3><ul>
 <li><p>定义</p>
 <ul>
 <li></li>
@@ -1315,7 +1327,8 @@ S=\sqrt {\frac 1 n (x_1-\overline x)^2+(x_2-\overline x)^2+···+(x_n-\overline
 <script type="math/tex; mode=display">
 把形如 y=ax^2+bx+c(其中a,b,c是常数,a≠0)
 的函数叫做二次函数，称a为二次项系数，b为一次项系
-数，c为常数项。</script><ul>
+数，c为常数项。</script><span id="more"></span>
+<ul>
 <li><p>图象</p>
 <ul>
 <li></li>
